@@ -10,17 +10,15 @@
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Ash0422?tab=repositories](https://github.com/Ash0422?tab=repositories)
-<br>
 
 - 📫 How to reach me: **chibane.tkd04@gmail.com**
-<br>
 
 - 🌱 I’m currently learning: **Full Stack Web Developer**
 
 - 📄 Know about my experiences: **https://www.linkedin.com/in/achraf-chibane-536b32107**
 
 - ⚡ Fun fact: **I am scared of spiders**
-<br>
+
 
 <h1 align="center">Connect with me:</h1>
 
