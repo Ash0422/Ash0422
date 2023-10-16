@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **chibane.tkd04@gmail.com**
 
-- 🌱 I’m currently learning: **Full Stack Web Developer**
+- 🌱 I’m currently learning: **Google Cyber Security Certificate**
 
 - 📄 Know about my experiences: **https://www.linkedin.com/in/achraf-chibane-536b32107**
 
