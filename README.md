@@ -14,7 +14,7 @@
  
  👨‍🎓 I’m currently learning **🤖 Everything about technology 🤖**
 
-🙋 Ask me about **Anything you want to know 🐬 [here](https://github.com/salesp07/salesp07/issues)**
+🙋 Ask me about **Anything you want to know 🐬 [here](https://github.com/Ash0422)**
 
 😆 Fun fact **I'm usually scared of spiders**
 
