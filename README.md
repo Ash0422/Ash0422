@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐛 My Contributions 🐛</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ash0422/Ash0422/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Ash0422/Ash0422/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -57,10 +57,9 @@
 <h2 align="center">📈 Stats 📉</h2>
 <br>
 <div align=center>
-  <!-- <img width=390 src="(https://github-readme-stats.vercel.app/api/pin/?Ash0422=anuraghazra&repo=github-readme-stats" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Ash0422.vercel.app/api?username=Ash0422&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ash0422&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ash0422&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 </div>
 
 <br/><br/>
