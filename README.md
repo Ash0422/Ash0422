@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ash0422.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Achraf+Chibane!;+A+Full+Stack+Web+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Achraf+Chibane!;+A+Full+Stack+Web+Developer;+Welcome+To+My+GitHub+Page" />
 </h1>
 
 <h3 align="center">🗽 A passionate Full Stack Web developer from The United State Of America 🗽 </h3>
